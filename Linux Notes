@@ -1,0 +1,277 @@
+
+join in WhatsApp channel for class notes : https://www.whatsapp.com/channel/0029Va9NnSdCHDyqwAoeIB1G 
+
+=========
+Linux OS
+=========
+
+=> Where we will use linux os in real-time
+
+=> We will install devops tools in linux machines
+
+	=> Jenkis Server
+	=> Docker Server
+	=> K8S cluster
+	=> SonarQube server
+	=> Nexus Server
+	=> ELK stack
+	=> Grafana & Promethues servers
+	=> Ansible server
+
+=> We will install database server software in linux machines
+
+=> Real-Time Applications will be deployed in linux machines only
+
+
+=============
+What is OS ?
+=============
+
+=> It is a software which acts as mediator between user and computer.
+
+=> Users will communicate with computers using OS
+
+=> Without OS we can't use any computer
+
+=> OS provides platform to run our applications in computer.
+
+	Ex: notepad, calculator, browser, tomcat....
+
+=> We have several operating systems in market
+
+	Ex: Windows, Linux, Mac, Android, IOS etc...	
+
+===========
+Windows OS
+===========
+
+=> Developed by Microsoft company (Bill Gates)
+
+=> Windows os is licensed (commercial)
+
+=> Windows is single user based os
+
+=> Security features are less in windows os (anti virus s/w required)
+
+=> Windows is GUI based (graphical user interface)
+
+=> Windows is recommended for personal use
+
+	Ex: watch movies, play games, online classes....
+
+==========
+Linux OS
+==========
+
+=> Linux is community based os (not specific to any company)
+
+=> Linux is free and open source os
+
+=> Linux is Multi User based OS
+
+=> Linux is highly secured (anti virus is not required)
+
+=> Linux is CLI based os (command line interface)
+
+=> Linux is highly recommended for business use (servers management)
+
+	Ex: App Servers, DB servers, jenkins, docker, k8s, nexus....
+
+==============
+Linux History
+==============
+
+=> Linux OS developed by "Linus Torvalds"
+
+-> Linus Torvalds identified some challenges/issues in Unix OS
+
+-> Linus Torvalds identified one OS which is matching with his ideas 
+
+			i.e Minux os	
+
+-> Linus Torvalds used Minux OS code and made some changes and released into market as new OS i.e Linux OS.
+
+		(Li) nus + Mi (nux) = Linux
+
+======================
+Linux Distributions
+======================
+
+-> Linus Torvalds provided Linux OS source code for free of cost
+
+-> So many companies downloaded Linux OS source code and modified according to their requirement and released into market with their brand names
+
+Those are called as Linux Distributions/ Linux Flavours.
+
+-> We have 200+ Linux Distributions in the market.
+
+	Ex: Amazon Linux, Ubuntu, Red HAT, suse, debian, kali, fedora....
+
+=============================
+How to setup Linux Machine ?
+=============================
+
+Approach-1 : Download and Install Linux OS in our System.
+
+Approach-2 : Use Virtual Box and install Linux os as guest os
+
+Approach-3 : Setup Linux VM in AWS Cloud for free of cost
+
+			 ( t2.micro / t3.micro -> 1 year & monthly 750 hours you can use )
+
+================================================================================
+
+*AWS Account Setup* : https://youtu.be/xi-JDeceLeI?si=4MgBX_H4_NPuzdT8
+
+*Linux VM Setup in AWS* : https://www.youtube.com/watch?v=JMlQaTXvw5o
+
+*Connect Linux VM with MobaXterm* : https://youtu.be/uI2iDk8iTps?si=ZuZs0lQTxoRpbRMk
+
+*Connect Linux VM with putty* : https://youtu.be/GXc_bxmP0AA?si=HgSydrP89mPxv23s
+
+
+===========================
+How to setup linux machine
+===========================
+
+1) Install Linux OS directley in our computer (physical machine)
+
+2) Install Linux OS as Guest OS in windows machine using Virtual Box.
+
+3) Take Linux Virtual Machine using Cloud Platform like AWS
+
+===================
+Linux Architecture
+===================
+
+1) Shell : mediator between users and kernel
+
+		- it will read commands executed by users
+		- validate command syntax
+		- convert command into kernel understandable format
+		- shell will send instructions to kernel for execution
+
+2) Kernel : heart of linux os (very imp)
+
+		- It will recieve instructions from shell
+		- kernel will convert command into hardware understandable format
+		- It is mediator between shell and hardware 
+
+3) Hardware components : cpu, ram, io 
+
+===================
+Linux File System
+===================
+
+=> In Linux OS everything will be represented as File only.
+
+=> Root Directory (/) is starting point of linux machine
+
+=> Inside root directory we have several directories like below
+
+/home : It contains users home directories
+
+	/home/ashok : Ashok home directory
+
+	/home/raju : Raju home directory
+
+	/home/ec2-user : ec2-user home directory
+
+/bin : Essentials ready-to-run-program (binaries)	
+
+/boot : static files of boot loader
+
+/dev : device files
+
+/lib : Shared libraries
+
+/etc : host specific configurations
+
+/opt : Optional application software packages
+
+/tmp : Temporary files will be stored here
+
+/usr : user utilities and applications
+
+/mnt : Mounted File system
+
+/media : Removal Media
+
+=================
+Linux Commands
+=================
+
+whoami : Display logged-in username
+
+pwd : Display present working directory
+
+date : Display current date
+
+cal : Display current month calendar
+
+cal 2030 : Display 2030 calendar
+
+cd : change directory
+
+	cd .. : go one step back from pwd
+
+	cd <dir-name> : Go inside directory
+
+mkdir : Make directory (create folder)	
+
+		mkdir linux
+		mkdir aws
+		mkdir devops azure gcp
+
+rmdir : remove empty directory (delete)
+
+		rmdir devops
+
+rm -rf <dir> : remove non-empty directory (recursively & forcefully)
+
+		rm -rf devops		
+
+ls : display present working directory content
+
+ls -l : long list the files in alphabetical order
+
+ls -lr : display files in reverse of alphabetical order
+
+ls -lt : display latest files on top
+
+ls -ltr : display old files on top
+
+ls -la : display hidden files
+
+touch : To create empty files in linux
+
+		touch f1.txt
+		touch f2.txt f3.txt
+
+rm : to delete file
+
+		rm f1.txt
+
+		rm -rf <dir-name>
+
+mv : For rename and move files & directories
+
+		mv existing-name  new-name
+
+		mv presention-location new-location		
+
+cat :  create new file with data + append data to file + print file data
+
+		# create new file with data
+		cat > f1.txt
+
+		# append data to existing file
+		cat >> f1.txt
+
+		# print file data from top to bottom
+		cat f1.txt
+
+		# print file data with line numbers
+		cat -n f1.txt		
+
+tac : To print file data from bottom to top
