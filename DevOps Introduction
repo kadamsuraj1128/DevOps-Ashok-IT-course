@@ -1,0 +1,629 @@
+
+https://www.whatsapp.com/channel/0029Va9NnSdCHDyqwAoeIB1G
+
+=======================================
+DevOps with AWS Cloud - Master Program
+=======================================
+
+1) Who is your trainer
+
+2) Pre-Requisites
+
+3) Course Content
+
+4) Course Details
+
+5) Q & A
+
+========
+Trainer
+========
+
+Name : Mr. Ashok
+IT Exp : 11+ Yrs
+Role : Project Manager
+Training Exp: 8 Years
+
+Ashok IT started in 2020
+
+===============
+Pre-Requisites
+===============
+
+=> 4 Months of time
+
+=> Real Intrest to become DevOps engineer
+
+=> Daily Practice (1.5 hr cls + 1.5 hr practice)
+
+=========================================
+Who are eligible to attend this course ?
+=========================================
+
+1) Experienced IT professional
+
+2) Non-IT people
+
+3) Career Gap people
+
+Note: DevOps Freshers jobs are not available in the market.
+
+===============
+Course Content
+===============
+
+Module-1 : SDLC   (1 week)
+
+		- Waterfall model
+		- Agile model
+		- What is DevOps
+		- Why DevOps
+		- DevOps Lifecycle
+		- Roles & Responsibilities DevOps Engineer
+
+Module-2 : Linux OS   (1 week)
+
+Module-3 : Shell Scripting (1 week)
+
+Module-4 : AWS Cloud (10+)  (1 month)
+
+Module-5 : DevOps Tools (15+)	(45 days)
+
+Module-6 : Projects Setup  (1 week)
+
+Module-7 : Interview Guidance (1 week)
+
+		- Mock Interviews
+		- Resume Building
+		- Placement Assistance
+
+Module-8: Python Scripting free course (30 days)
+
+=============
+AWS Services
+=============
+
+1) EC2
+2) S3
+3) RDS
+4) IAM
+5) VPC
+6) Elastic Beanstack
+7) AWS lambdas
+8) Cloud watch
+9) SNS
+10) EKS
+11) Route 53
+
+=============
+DevOps Tools
+=============
+
+1) Maven & Gradle
+2) Git Hub & BitBucket
+3) Tomcat
+4) SonarQube
+5) Nexus & JFrog
+6) Docker
+7) Kubernetes
+8) Jenkins
+9) Prometheus
+10) Grafana
+11) ELK
+12) Terraform
+13) Ansible
+14) JIRA
+15) Trivy
+
+===============
+Course Details
+===============
+
+Course Name : DevOps with AWS - Master Program
+
+Course Code : 32-DevOps
+
+Start date : Today
+
+Duration : 4 Months
+
+Class timings : 6:00 PM to 7:30 PM (IST)
+
+				(Mon-Fri)
+
+Course Fee : 16,000 INR
+
+=========
+Benefits
+=========
+
+1) Daily live classes
+
+2) Soft copy notes
+
+3) Backup Videos For Revision (1 year validity)
+
+4) Daily doubts clarifications
+
+5) Whatsapp group / telegram for communication
+
+6) Mock Interviews
+
+7) Course Completion Certificate
+
+
+
+
+=========================================
+Module-1 : Software Project Introduction
+=========================================
+
+Q) What is software project ?
+
+=> Collection of software programs is called as Software Project.
+
+=> To develop software programs we will use programming languages
+
+	Ex: C, C++, Java, Python, PHP, C# .Net.....
+
+
+==========================================
+Q) Why to develop software project ?
+==========================================
+
+=> Software projects are used to reduce human efforts and simplify humans life.
+
+	1) IRCTC for train tickets booking
+	2) Netbanking for banking operations
+	3) Amazon, Flipkart etc for online shopping
+	4) Swiggy, zomoto for food orders
+	5) BigBasket, Zeptop, Blinkit for grocerries
+
+================================
+Software Project Architecture	
+================================
+
+=> Application architecture contains below 3 layers
+
+	1) Presentation Layer (Frontend)
+
+	2) Business Layer (Backend)
+
+	3) Database (Storage)
+
+
+=> Front end contains user interface (presentation layer)
+
+	Frontend Technologies : Angular / React JS / Vue JS
+
+
+=> Bakend contains business logic of the application.
+
+	Backend Technologies : Java, Python, .Net, Node JS, PHP.....
+
+
+=> Database is used for storage
+
+	Database: Oracle, MySQL, SQLServer, Postgres, Mongo DB ...
+
+
+========================
+Application Tech Stack	
+========================
+
+App-1 : Angular + Java + Oracle
+
+App-2 : React JS + Java + Mongo DB
+
+App-3 : Angular + Python + MySQL
+
+App-4 : React JS + Dot Net + SQL Server
+
+App-5 : React JS + Node JS + Mongo DB
+
+
+======================
+Teams in the project
+======================
+
+1) Business Analysis Team (Functional)
+2) Development Team
+3) Testing Team
+4) Operations Team (DevOps Team)
+
+
+=> Busines Analysis team is responsible to get requirements from the client.
+
+=> Development Team is responsible for coding (develop the project)
+
+=> Testing team is responsible to verify project is working as expected or not.
+
+=> Operations team is responsible for below activites
+
+		a) Infrastructure Setup
+
+			Ex: Machines, Database, storage, network, backup, security....
+
+		b) Configuraion Management
+
+			Ex: S/w installations, copy files....
+
+		c) Build & Deployment
+
+		d) Application Delivery / Release
+
+		e) Infra & App Monitoring
+
+==================================================================
+
+Infrastructure Setup  ===> Terraform  (AWS, Azure, GCP)
+
+Configuration Management ===> Ansible
+
+Build & Deployment ==> Git Hub + Maven + Sonar + Nexus + Docker + K8S + Jenkins
+
+Monitoring => Promethues + Grafana + ELK or Splunk (Logs Monitoring)
+
+===========================================
+Skills Required To Become DevOps Engineer
+===========================================
+
+1) Linux OS + Shell Scripting
+
+2) Cloud Computing (atleast one cloud platform)
+
+3) DevOps Tools
+
+4) Python Scripting (added advantage)
+
+============================
+What is DevOps & Why DevOps
+============================
+
+DevOps = Development + Operations
+
+=> DevOps is a culture
+
+=> DevOps is a process
+
+=> DevOps means set of best practices.
+
+=> DevOps is used to establish colloboration between dev team & ops team.
+
+=> The main of devops process is used to simplify & automate & speed up application build & deployment process with high quality.
+
+=> We can delivery application to client quickly by following devops practices
+
+==========================================
+How to adopt devops culture in project ?
+==========================================
+
+=> By using set of tools we can adopt DevOps culture in our project. Those tools are called as DevOps tools.
+
+
+**** Infrastructure setup
+
+	Ex: Machines, Database, Security, Storage, Network, Backup etc...
+
+=> Using Terraform we can automate infrastructure setup in project.	
+
+
+**** Configuration Management
+
+	Ex: install softwares, os updates, transfer files etc...
+
+=> Using Ansible we can automate configuration management
+
+
+**** Source Code Management
+
+=> All the developers code should be integrated at once place with tracking.
+
+=> We can use GIT Hub or BitBucket or Git Lab as source code repository servers.
+
+
+*** Project Build Process
+
+=> Convert project source code into executable format
+
+	.java programs  -------------> jar or war
+
+	.csharp program --------------> dll file
+
+
+=> We can use Maven or Gradle to build java projects
+
+=> We can use MS Build to build Dot Net projects
+
+=> We can use npm to build angular or react projects	
+
+Note: Python is scripting language build process not required.
+
+
+**** Artifactory Servers
+
+=> To store project build artifacts like jars, wars, dlls
+
+=> We can use Nexus or JFrog to store project artifacts.
+
+
+**** Code Review
+
+=> To identify developer mistakes in source code we will perform Code Review.
+
+=> We can use SonarQube to perform project code review.
+
+
+**** Application Deployment
+
+=> To run application server is required
+
+	Ex: 
+		Tomcat server (java)
+		IIS (.net)
+		Nginx (angular or react)
+
+Note: We will use Docker & Kubernetes for application deployment.
+
+**** Automate Build & Deployment (CI CD)
+
+=> Continuous Integration & Continuous Deployment
+
+=> We can use Jenkins to implement CI CD in the project.
+
+
+**** Monitoring
+
+=> Servers Monitoring
+
+Note: Using Promethues & Grafana we can monitor our servers
+
+=> Application logs monitoring
+
+Note: Using splunk or ELK we can monitor application logs.
+
+
+============================================================
+
+
+1) Terraform
+
+2) Ansible
+
+3) Git Hub / BitBucket / GitLab
+
+4) Maven / Gradle / MS Build / NPM
+
+5) SonarQube
+
+6) Nexus / JFrog (artifacts upload)
+
+7) Tomcat / IIS / Nginx
+
+8) Docker
+
+9) Kubernetes (K8S)
+
+10) Jenkins (CI CD)
+
+11) Prometheus & Grafana
+
+12) Splunk / ELK
+
+
+======================================================
+
+## Step-1 : Setup Infrastructure for the project
+
+		a) On-Premise Infrastructure (costly and risky)
+
+		b) Cloud infrastructure
+
+Note: Now a days companies are using Cloud Infrastructure.
+
+## Step-2 : Configuration Management
+
+## Step-3 : Manage source code repositories & RBAC (Role Based Access) for team members
+
+## Step-4 : Automate Build & Deployment process (CI CD)
+
+## Step-5 : Monitoring
+
+======================================================
+
+
+=============================
+What is IT Infrastructure ?
+=============================
+
+=> To run a software company we need below resources
+
+		a) machines
+		b) network
+		c) power
+		d) storage
+		e) backup
+		f) security
+
+=> The above resources are called as "IT infrastructure"
+
+=> We can maintain infrastructure in 2 ways
+
+	1) On-prem infrastructure
+
+	2) Cloud infrastructure
+
+==================================
+What is On-Prem Infrastructure ?
+==================================	
+
+=> On-Prem means we need to purchase and we need to maintain our resources to run our business.
+
+=> We have several challenges with On-Prem infrastructure
+
+		1) Lot of money investement
+		2) Lot of man power
+		3) Scalability (increase / decrease)
+		4) Availability
+		5) Network issues
+		6) Security issues
+
+=> To overcome the problems of on-prem infrastructure companies are preferring Cloud Infrastructure.
+
+===========================
+What is Cloud Computing ?
+===========================
+
+=> The process of delivering IT resources over the internet on demand basis is called as Cloud Computing.
+
+=> We have below advantages with cloud computing
+
+	- No Advance payments
+
+	- Pay as you go
+
+	- Scalability
+
+	- Availability
+
+	- Security
+
+	- Backup & Restore
+
+
+================
+Cloud Providers
+================
+
+=> The companies which are providing IT infrastructure based on pay as you go model are called as Cloud Providers.
+
+1) Amazon (AWS)
+
+2) Microsoft (Azure)
+
+3) Google (GCP)
+
+
+==============
+What is AWS 
+==============
+
+=> AWS stands for Amazon webservices.
+
+=> AWS providing cloud services from 2006 onwards.
+
+=> AWS providing IT infrastructure based on "pay as you go" model.
+
+=> 190+ countries using AWS cloud services to run their businesses.
+
+=> AWS having global infrastructure.
+
+=> AWS managing infrastructure using "Regions & Availability Zones" concept.
+
+		Region = Location  
+
+		Availability Zone = Data Center (Server Room)
+
+=> As of today AWS having 36 regions and 114 Availability Zones.
+
+		AWS Map : https://aws.amazon.com/about-aws/global-infrastructure/
+
+
+Note: In INDIA we have 2 regions
+
+		1) Mumbai (ap-south-1)
+
+				ap-south-1a
+				ap-south-1b
+				ap-south-1c
+
+		2) Hyderbad	(ap-south-2)
+
+				ap-south-2a
+				ap-south-2b
+				ap-south-2c
+
+
+========================
+How to use AWS Cloud ?
+========================
+
+=> We can create free tier account in aws cloud for practice. 
+
+Note: credit or debit card required for aws account creation.
+
+@@@  Reference Video : https://youtu.be/xi-JDeceLeI?si=adjfQqwTcRstQODd
+
+=> In AWS we have 200+ services. In those few are paid and few are free.
+
+Note: If we use any paid service then bill be generated. AWS will not deduct bill amount from our card. There is no concept of Auto Debits in AWS platform.
+
+=> AWS will send reminders for bill payment. If we don't pay bill then our AWS account will suspended.
+
+Note: We can request AWS support team to make bill amount as zero for 1 or 2 times. AWS support team will provide free credits for practice.
+
+===============
+AWS Services
+===============
+
+=> We have 200+ Services in AWS Cloud, based on project requirement we will use some of the aws services.
+
+1) EC2 : To create virtual machines (hourly billing) (750 hrs free of cost)
+
+2) S3 : Unlimited storage
+
+3) RDS : Relational Database Service
+
+4) IAM : Identity & Access management
+
+5) VPC : Isolated Network for the resources
+
+6) ECS : To manage containers 
+
+7) EKS : To manage K8S cluster
+
+8) Cloud Watch : Monitoring
+
+9) SNS : Simple Notification Service
+
+10) Route 53 : To manage DNS mapping
+
+11) Elastic Beanstack : Web Application Management
+
+12) Lambdas : Serverless computing
+
+
+
+=========
+Summary
+=========
+
+1) Course Details
+
+2) What is Software Project & Why 
+
+3) Software Project Architecture
+
+4) Technology Stack
+
+5) Types of Teams in software project
+
+6) DevOps team roles & Responsibilities
+
+7) What is DevOps & Why DevOps 
+
+8) DevOps Lifecycle
+
+9) DevOps Tools overview
+
+10) Skills Required to work as DevOps Engineer
+
+11) What is Cloud Computing
+
+12) AWS Cloud Introduction
+
+13) AWS Account Setup
+
+14) AWS Services Overview
+
+==================================================
